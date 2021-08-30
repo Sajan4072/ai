@@ -1,0 +1,7 @@
+1)
+In the image, we might be trying to predict whether someone likes pineapple (1) on their pizza or not (0) based on their age (the predictor).
+It is standard practice to represent the output (label) of a classification algorithm as an integer number such as 1, -1, or 0.
+
+2)
+The KNN algorithm hinges on this assumption being true enough for the algorithm to be useful. KNN captures the idea of similarity (sometimes called distance, proximity, or closeness)
+ with some mathematics we might have learned in our childhood— calculating the distance between points on a graph

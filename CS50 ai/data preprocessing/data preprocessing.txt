@@ -1,0 +1,11 @@
+--preparing data for modeling 
+
+
+--modeling in python requires numerical input 
+
+
+@geeksforgeeks
+
+
+eg,
+so if dataset has categorical variable (you ll need to transform them )

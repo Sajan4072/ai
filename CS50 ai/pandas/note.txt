@@ -1,0 +1,6 @@
+Data processing engine-?
+ ## preping data for modeling 
+## modeling in python requies numerical input 
+
+
+so if Dataset has categorical variable it needs to be transformed 

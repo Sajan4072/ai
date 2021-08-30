@@ -1,0 +1,15 @@
+# to read csv
+import panda as pd 
+pd.read_csv("people.csv")
+
+
+##to write to csv first create the df and write the df to csv 
+df=pd.DataFrame([['jack',24],['rose',22'],colummns=['name','age'])
+
+df.to_csv('title.csv')
+
+
+
+## for json
+hiking=pd.read_json("datasets/hiking.json')
+print(hiking.head())
